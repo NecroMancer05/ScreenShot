@@ -8,3 +8,5 @@
 * Defult save path is your desktop.
 * Dont forget the restart app after save path change !
 * Copy icon.png to documents -> ScreenShot\ .(icon in \icon folder)
+
+*This program written in Kotlin*
