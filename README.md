@@ -1,6 +1,6 @@
 ## ScreenShot
 
-A simple desktop app for take ScreenShots in background and save them into a path.
+A simple desktop app for take ScreenShots in background and save them into a path.\n
 F12 takes screenshot
 In documents you can see ScreenShot\Settings.txt inside .txt file you can set your screenshots save path.
 
