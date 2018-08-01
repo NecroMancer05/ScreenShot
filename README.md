@@ -9,5 +9,5 @@
 * Dont forget the restart app after save path change !
 * Copy icon.png to documents -> ScreenShot\ .(icon in \icon folder)
 
-*This program written with Kotlin*
+*This program written with Kotlin* </br>
 *And this app using jnativehook-2.1 maven libary u can add your project in maven libraries*
